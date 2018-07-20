@@ -1,0 +1,8 @@
+{
+  "name": "Find the geolocation of an image",
+  "description": "Get a picture, find where it was taken",
+  "repository": "https://github.com/bjarousky/image-geolocator",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
