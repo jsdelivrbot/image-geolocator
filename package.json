@@ -1,9 +1,9 @@
 {
   "name": "image-geolocator",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Get a picture, find where it was taken",
   "engines": {
-    "node": "8.9.1"
+    "node": "10.5.0"
   },
   "main": "index.js",
   "scripts": {
